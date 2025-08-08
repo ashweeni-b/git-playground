@@ -12,3 +12,4 @@ print("Added message from techteam1 on GitHub")
 print("Added another message from techteam1 on GitHub")
 
 x = 100
+y = 300
