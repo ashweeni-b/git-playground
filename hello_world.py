@@ -1,3 +1,1 @@
-print("Hello World!")
-
-print("I am currently learning Git commands.")
+print("Hello World! \nI am currently learning Git commands.")
